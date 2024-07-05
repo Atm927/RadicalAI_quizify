@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lofty-seer-426220-g7",
+  "private_key_id": "268761c74010f6e3701b5f1de28b59d782e6ae42",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwLv8RiyO9NRzG\na6J91DHoqz5tydGeoWKrfrDPV6PwnyT13O7cdNB1UEufTAVj/IoTSnqWpLttiPr1\nRFmKRPilFQhCMIZFrP1uzt7HY7yYxSdAFigGHrag4bToVCf/NkJ4CrKFIET37AcK\n5x7oC6XDAL8/u8bXu/553tIcrB37Cv9otWtWy0kDo3XqC/AIMuzfSjkGopIPmSC4\ne9CjE+meCrNbTKY3mrNay2OCN1aud61lml6PzgQzKxL8sg1ryjHPIiWNe0vvAK5C\nM/4LD055A8+23Jguv4/2fmZdOVvf8TMsiW8RAUuwfu6dIB5I/drxQgGOXkgKCBev\nVCOYuZ+hAgMBAAECggEAA7i26meb2W9Wvnvbn5x+0kQzgCuApyD/4+kr9kHC0qpk\nbCF6zc8lf/xicAzBsoS1JJKctbvYog/4I9wZ93hU750C1t3WOMCebPe/g8MD+t7D\ngTR0m4o8m6fv365XJtJWP6mTbzmk/k8K8CptFBwKoByW9ZtXeDMyTTAJVHnn41eV\nZOFEWxtLhru4uL/uxdnfhIwLCvfsWoBNKOTcsn/44MyWAB+VxulJkXQSgVWniubl\nZI+qCVpwzUp3rAWgALcWdX3KqjSThymAPvPKkF6kOewOwEZnR7Mpg9BsUKqX/etj\nKvcc7YjA6/Co4/zMLKMwlw3X3MTnj0xVR7DNLhU2AQKBgQDqdfn7zlQ+RVS1PHqf\nO6nU61q5e2Fk/tTT3uHFq1CXAQVeN4RHoXjKMPBbx5+qZvn2V0XmN0dGArl6tDgS\nFce/PkwJUT+rCGfYuTMsx0SZZR1H3oC2moMh0yE8+4r2T2TkGWe5oovox7RjZi0n\no/njDeFFCU8OOPR4CNUz0toqAQKBgQDAXnY0+cF6iXc1I9Jkv086/9iext7OP15B\nXC2Pw4rT19zRql6JG72UxR1fvF2v3QI2IW4mngEvy2PdgT7gU3S0cTnBjZt/ekoA\n8ApDUQilMnQARKZ3FWBjKZ9UU1B7t/KqiTHl2sqHimyBiWEdP4i2zSuY8Pu5ihXP\nmXGMNNM1oQKBgDJfJlXy/iZivtAxLicHqnUUG2m+GC6akR7zw420QJwwm/ah9sls\n54aI/Rq6yJLTjOBf36SWO7nO3AqArYs1IrTzrWJTElqsc6McJuJ37UUHdEL8iqqw\nh3u84Gc5o6FHbWWUD7TSNzzLqvWv/gOGNymQ0dUDKvjjQ6KGQ0ffBQABAoGBAL5L\n88V+GC6e1AUGdbfiJH+p3mFbO8dtmlEv3YZtGuVrke77CV+6yHTl9aPiFA/Hostn\nkK60+VmNazIRC+EfzcA+jbLx4ZRepdx9mLl07Qd2fJhTURVWWS5fW1UwwdpRYsXe\nyDSollc00RfnjeFAG38yQWGfanTlq6PdGB1pmFJhAoGAD6Fdw3P31M2QQhqYgagD\n/32M2KaJ/mPyP+CQLwrFqBnM2E9w0n7aHnIssL6f0yEYEn2VQ51fx22+PTOPdwkb\nUdteGJiG75dOIf2cKzVNQd/dnn4QXTPeHvk7BSe486ubbNx0FGuvYpROpTdU9miA\nbTxbmCk+A/rcOTyEZzNhLg8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit@lofty-seer-426220-g7.iam.gserviceaccount.com",
+  "client_id": "114834371086540493288",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit%40lofty-seer-426220-g7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
